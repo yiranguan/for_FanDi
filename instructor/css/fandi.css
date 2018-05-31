@@ -1,0 +1,18 @@
+body{
+  background-color: #f8f8f8; 
+}
+
+.head{
+  width: auto;
+  padding: 40px;
+}
+
+.head_title{
+  font-size: 2rem;
+  line-height: 2.8rem;
+}
+
+.head_decription{
+  font-size: 1rem;
+  line-height: 1.4rem;
+}
